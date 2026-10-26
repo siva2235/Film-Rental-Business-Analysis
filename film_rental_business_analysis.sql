@@ -3,7 +3,7 @@ PROJECT:Film Rental Business Analysis Using MySQL
 DATASET:film_rental
 NOTES:
 - Run schema.sql first, then data.sql, in MySQL.
-- This file contains answers to the 15 questions from the project brief.
+- This file contains answers to the 14 questions from the project brief.
 - Uses MySQL queries without CTEs or window functions.
 - Question 9: the actor table has no gender field, so SQL cannot reliably identify
   actresses specifically. The query returns all actors in films whose description
